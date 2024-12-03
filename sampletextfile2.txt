@@ -1,2 +1,3 @@
 this is sample file 2
 git 2 revert
+This is comparisim lecture 2
